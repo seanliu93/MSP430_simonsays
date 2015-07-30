@@ -1,4 +1,4 @@
 MSP430_simonsays
 ================
 
-simon says game on the MSP430. Written in Objective C on Code Composer Studio
+simon says game on the MSP430. Written in C on Code Composer Studio
